@@ -12,15 +12,16 @@ Bu proje, React ekosisteminde **durum yönetimi (state management)**, **middlewa
 
 ## 🛠️ Kullanılan Teknolojiler
 
-| ⚛️ **React** | Duyarlı kullanıcı arayüzü oluşturmak için |
-| 🔄 **redux & react-redux** | Global durum yönetimi |
-| 🧵 **redux-thunk** | Asenkron işlemler ve API iletişimi için middleware |
-| 🌐 **axios** | HTTP isteklerini gerçekleştirmek için |
-| 🗺️ **react-router-dom** | Sayfalar arasında gezinme |
-| 🔢 **uuid** | Benzersiz ID üretimi |
-| 🎨 **react-icons** | Projede ikon kullanımı |
-| 🖌️ **tailwindcss** | Modern ve utility-first stil yapısı |
-| 💾 **json-server** | Sahte backend API simülasyonu |
+- ⚛️ **React** – Duyarlı kullanıcı arayüzü oluşturmak için  
+- 🔄 **redux & react-redux** – Global durum yönetimi  
+- 🧵 **redux-thunk** – Asenkron işlemler ve API iletişimi için middleware  
+- 🌐 **axios** – HTTP isteklerini gerçekleştirmek için  
+- 🗺️ **react-router-dom** – Sayfalar arasında gezinme  
+- 🔢 **uuid** – Benzersiz ID üretimi  
+- 🎨 **react-icons** – Projede ikon kullanımı  
+- 🖌️ **tailwindcss** – Modern ve utility-first stil yapısı  
+- 💾 **json-server** – Sahte backend API simülasyonu
+
 
 ##  Ekran Kaydı
 Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
